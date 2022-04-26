@@ -1,2 +1,2 @@
-# python_bootcamp_2022
+# ATOC REU Python Bootcamp
 Full python bootcamp materials for 2022
