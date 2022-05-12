@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 **/.DS_Store
+
+Day 6_Multi-dimensional data with xarray 2/sst_climatology_era5.nc
