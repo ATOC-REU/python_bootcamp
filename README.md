@@ -13,7 +13,7 @@ The ATOC REU Python Bootcamp was created, and has been maintained, as a departme
 * Sean Leister
 * Jed Lenetsky
 * Michelle Maclennan
-* Andrew Metts
+* Andrew Metz
 * Sam Mogen
 * Ethan Murray
 * Cole Persch
